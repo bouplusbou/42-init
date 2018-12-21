@@ -1,3 +1,1 @@
 nat-1 (10.60.1.11)
-
-nat pour Network address translation "permettre à des machines disposant d'adresses qui font partie d'un intranet et ne sont ni uniques ni routables à l'échelle d'Internet, de communiquer avec le reste d'Internet en faisant semblant d'utiliser des adresses externes uniques et routables."

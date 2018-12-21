@@ -1,0 +1,6 @@
+#graphic: launch the VM with VirtualBox and enter the credential of the new_user
+#OR
+#graphic2: sudo login new_user +pswd current sudo user +pswd new_user
+
+#ssh session (because I redirected to the port 2222, i added -p 2222)
+#ssh new_user@127.0.0.1 -p 2222

@@ -1,3 +1,0 @@
-#pour rediriger un domaine vers un autre localement, il faut les droits root
-
-echo "46.19.122.85 intra.42.fr" >> /etc/hosts

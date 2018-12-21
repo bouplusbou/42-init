@@ -1,0 +1,2 @@
+#Because I redirected to the port 2222, I need to add '-p 2222'
+ssh bboucher@127.0.0.1 -p 2222
