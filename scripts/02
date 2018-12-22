@@ -1,0 +1,8 @@
+#!/bin/bash
+read -p "Enter the name of user you want to delete and press [enter]: " arg1
+who | awk '{print $1}' | sort | uniq | grep -q "$arg1" && {
+	sudo killall -KILL -u $arg1
+	sudo userdel -r $arg1
+} || {	
+	echo "$arg1 is not an active user"
+}

@@ -1,1 +1,1 @@
-cat /etc/debian_version
+# You can find the Debian version here: /etc/debian_version

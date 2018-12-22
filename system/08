@@ -1,1 +1,1 @@
-~/.ssh/authorized_keys
+# The file that contains the RSA keys to connect in SSH is here: ~/.ssh/authorized_keys

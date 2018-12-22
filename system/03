@@ -1,1 +1,1 @@
-/etc/hostname
+# To make it permanent you need to change this file: /etc/hostname
