@@ -5,4 +5,4 @@ read -p "Enter your username to become sudo: " arg1
 usermod -aG sudo $arg1
 su - $arg1
 sudo echo "Hello, you are now sudo!"
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove && install vi
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove && install vim
